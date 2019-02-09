@@ -17,7 +17,7 @@ outInner.onclick=function () {
         if (i==1){
             outHide.style.transform="translateY(-100%)";
         }
-        if (i==3){
+        if (i==5){
             outHide.style.zIndex="9999";
             outHide.style.transform="translateY(0)";
         }
