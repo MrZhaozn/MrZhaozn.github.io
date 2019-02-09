@@ -87,7 +87,7 @@ body{background: url("../static/bottom_bg.jpg");width: 100%;font: normal 100% He
         /*background: rgba(0,0,0,0.5);*/
         margin: 0 auto;
         position: relative;
-        overflow: hidden;
+         /*overflow: hidden;*/
     }
 }
 @media screen and (max-width:1000px){
@@ -97,7 +97,7 @@ body{background: url("../static/bottom_bg.jpg");width: 100%;font: normal 100% He
         /*background: rgba(0,0,0,0.5);*/
         margin: 0 auto;
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
 }
 
