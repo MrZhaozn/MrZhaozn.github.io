@@ -147,6 +147,13 @@ body{
     background: #000;
     top:.5rem;
     left:4rem;
+    z-index: 1;
+}
+.item-top span:nth-of-type(2){
+    position: relative;
+    background: #fff;
+    padding: 0 0.3rem;
+    z-index: 9;
 }
 .item-top-right{
     display: block;
@@ -156,6 +163,7 @@ body{
     background: #000;
     top:.5rem;
     right:4rem;
+    z-index: 1;
 }
 .item-main{
     width: 100%;
